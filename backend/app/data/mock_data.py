@@ -1,0 +1,477 @@
+"""Synthetic Demo / Mock Datasets for SURAKSHA-SETU (Maharashtra Disaster Management Focus).
+
+IMPORTANT:
+This file contains DEMO / MOCK / SAMPLE DATA strictly intended for algorithmic verification
+and prototyping. It is NOT authorized live government data.
+
+Team: Team Abhimanyu
+Backend: Sahil & Swara
+"""
+from typing import List, Dict, Any
+
+# Clear labeling of mock data per project specification
+DATA_CLASSIFICATION = "DEMO/MOCK/SAMPLE DATA"
+IS_MOCK_DATA = True
+
+# 1. Mock Habitations / Villages (Maharashtra Disaster Prone Scenarios)
+# Note: V01 represents "Village A" from benchmark specs (Taliye Heights - Mahad, Raigad) with population 3,240.
+MOCK_VILLAGES: List[Dict[str, Any]] = [
+    {
+        "id": "V01",
+        "name": "Taliye Heights - Mahad",
+        "alias": "village-a",
+        "district": "Raigad",
+        "latitude": 17.9220,
+        "longitude": 73.6150,
+        "population": 3240,
+        "elevation_meters": 2240.0,
+        "slope_degrees": 42.0,
+        "historical_hazards_count": 5,
+        "rainfall_mm": 135.0,
+        "soil_saturation_pct": 88.0,
+        "flood_risk": "Moderate",
+        "landslide_risk": "Critical",
+    },
+    {
+        "id": "V02",
+        "name": "Mirgaon Slope - Patan",
+        "alias": "village-b",
+        "district": "Satara",
+        "latitude": 17.3750,
+        "longitude": 73.9020,
+        "population": 1850,
+        "elevation_meters": 1150.0,
+        "slope_degrees": 14.0,
+        "historical_hazards_count": 4,
+        "rainfall_mm": 110.0,
+        "soil_saturation_pct": 82.0,
+        "flood_risk": "High",
+        "landslide_risk": "Low",
+    },
+    {
+        "id": "V03",
+        "name": "Chiplun Vashishti Riverside",
+        "alias": "village-c",
+        "district": "Ratnagiri",
+        "latitude": 17.5320,
+        "longitude": 73.5180,
+        "population": 2150,
+        "elevation_meters": 980.0,
+        "slope_degrees": 22.0,
+        "historical_hazards_count": 3,
+        "rainfall_mm": 90.0,
+        "soil_saturation_pct": 70.0,
+        "flood_risk": "High",
+        "landslide_risk": "Moderate",
+    },
+    {
+        "id": "V04",
+        "name": "Narsobawadi Floodplain",
+        "alias": "village-d",
+        "district": "Kolhapur",
+        "latitude": 16.6950,
+        "longitude": 74.5980,
+        "population": 1120,
+        "elevation_meters": 830.0,
+        "slope_degrees": 18.0,
+        "historical_hazards_count": 2,
+        "rainfall_mm": 75.0,
+        "soil_saturation_pct": 60.0,
+        "flood_risk": "Moderate",
+        "landslide_risk": "Moderate",
+    },
+    {
+        "id": "V05",
+        "name": "Malin Foothills - Ambegaon",
+        "alias": "village-e",
+        "district": "Pune",
+        "latitude": 19.1620,
+        "longitude": 73.6880,
+        "population": 980,
+        "elevation_meters": 1600.0,
+        "slope_degrees": 32.0,
+        "historical_hazards_count": 2,
+        "rainfall_mm": 60.0,
+        "soil_saturation_pct": 55.0,
+        "flood_risk": "Low",
+        "landslide_risk": "High",
+    },
+    {
+        "id": "V06",
+        "name": "Dasgaon Basin",
+        "alias": "village-f",
+        "district": "Raigad",
+        "latitude": 18.0120,
+        "longitude": 73.3520,
+        "population": 1450,
+        "elevation_meters": 910.0,
+        "slope_degrees": 15.0,
+        "historical_hazards_count": 6,
+        "rainfall_mm": 145.0,
+        "soil_saturation_pct": 92.0,
+        "flood_risk": "Critical",
+        "landslide_risk": "Moderate",
+    },
+    {
+        "id": "V07",
+        "name": "Ambeghar Ridge",
+        "alias": "village-g",
+        "district": "Satara",
+        "latitude": 17.4180,
+        "longitude": 73.8200,
+        "population": 2750,
+        "elevation_meters": 1890.0,
+        "slope_degrees": 38.0,
+        "historical_hazards_count": 4,
+        "rainfall_mm": 125.0,
+        "soil_saturation_pct": 84.0,
+        "flood_risk": "Low",
+        "landslide_risk": "Critical",
+    },
+    {
+        "id": "V08",
+        "name": "Igatpuri Buffer Plain",
+        "alias": "village-h",
+        "district": "Nashik",
+        "latitude": 19.6980,
+        "longitude": 73.5500,
+        "population": 3410,
+        "elevation_meters": 640.0,
+        "slope_degrees": 5.0,
+        "historical_hazards_count": 0,
+        "rainfall_mm": 35.0,
+        "soil_saturation_pct": 30.0,
+        "flood_risk": "Safe",
+        "landslide_risk": "Safe",
+    },
+    {
+        "id": "V09",
+        "name": "Chikhali Panchganga Bank",
+        "alias": "village-i",
+        "district": "Kolhapur",
+        "latitude": 16.7120,
+        "longitude": 74.2280,
+        "population": 1620,
+        "elevation_meters": 750.0,
+        "slope_degrees": 8.0,
+        "historical_hazards_count": 5,
+        "rainfall_mm": 130.0,
+        "soil_saturation_pct": 85.0,
+        "flood_risk": "Critical",
+        "landslide_risk": "Safe",
+    },
+    {
+        "id": "V10",
+        "name": "Varandha Ghat Basti",
+        "alias": "village-j",
+        "district": "Pune",
+        "latitude": 18.1520,
+        "longitude": 73.6120,
+        "population": 830,
+        "elevation_meters": 1520.0,
+        "slope_degrees": 28.0,
+        "historical_hazards_count": 2,
+        "rainfall_mm": 70.0,
+        "soil_saturation_pct": 62.0,
+        "flood_risk": "Low",
+        "landslide_risk": "High",
+    },
+    {
+        "id": "V11",
+        "name": "Khed Sivalay Colony",
+        "alias": "village-k",
+        "district": "Ratnagiri",
+        "latitude": 17.7180,
+        "longitude": 73.3850,
+        "population": 1980,
+        "elevation_meters": 820.0,
+        "slope_degrees": 12.0,
+        "historical_hazards_count": 3,
+        "rainfall_mm": 95.0,
+        "soil_saturation_pct": 72.0,
+        "flood_risk": "High",
+        "landslide_risk": "Moderate",
+    },
+    {
+        "id": "V12",
+        "name": "Kumbharli Slope",
+        "alias": "village-l",
+        "district": "Satara",
+        "latitude": 17.4010,
+        "longitude": 73.7520,
+        "population": 1250,
+        "elevation_meters": 1780.0,
+        "slope_degrees": 40.0,
+        "historical_hazards_count": 4,
+        "rainfall_mm": 120.0,
+        "soil_saturation_pct": 86.0,
+        "flood_risk": "Moderate",
+        "landslide_risk": "Critical",
+    },
+    {
+        "id": "V13",
+        "name": "Bhayandar Lowlands",
+        "alias": "village-m",
+        "district": "Thane",
+        "latitude": 19.3000,
+        "longitude": 72.8500,
+        "population": 4120,
+        "elevation_meters": 580.0,
+        "slope_degrees": 4.0,
+        "historical_hazards_count": 1,
+        "rainfall_mm": 45.0,
+        "soil_saturation_pct": 40.0,
+        "flood_risk": "Moderate",
+        "landslide_risk": "Safe",
+    },
+    {
+        "id": "V14",
+        "name": "Tamhini Ghat Settlement",
+        "alias": "village-n",
+        "district": "Pune",
+        "latitude": 18.4650,
+        "longitude": 73.4150,
+        "population": 1370,
+        "elevation_meters": 1920.0,
+        "slope_degrees": 34.0,
+        "historical_hazards_count": 2,
+        "rainfall_mm": 65.0,
+        "soil_saturation_pct": 58.0,
+        "flood_risk": "Low",
+        "landslide_risk": "High",
+    },
+    {
+        "id": "V15",
+        "name": "Baramati Plateau",
+        "alias": "village-o",
+        "district": "Pune",
+        "latitude": 18.1520,
+        "longitude": 74.5800,
+        "population": 2900,
+        "elevation_meters": 610.0,
+        "slope_degrees": 6.0,
+        "historical_hazards_count": 0,
+        "rainfall_mm": 25.0,
+        "soil_saturation_pct": 22.0,
+        "flood_risk": "Safe",
+        "landslide_risk": "Low",
+    }
+]
+
+# 2. Mock Relocation Sites / Shelters (Maharashtra Region)
+# Note: S01 represents "Shelter B" from benchmark spec with totalCapacity = 5,000.
+MOCK_SHELTERS: List[Dict[str, Any]] = [
+    {
+        "id": "S01",
+        "name": "Safe Site A - Shanti Camp (Mahad Municipal Complex)",
+        "alias": "shelter-b",
+        "latitude": 18.0820,
+        "longitude": 73.4250,
+        "total_capacity": 5000,
+        "available_capacity": 5000,
+        "elevation_meters": 1350.0,
+        "suitability_score": 92.0,
+        "road_access_quality": "Paved 4-Lane NH-66 Corridor",
+        "is_active": True,
+    },
+    {
+        "id": "S02",
+        "name": "Safe Site B - Satara Relief Stadium",
+        "alias": "shelter-shanti-nagar",
+        "latitude": 17.6850,
+        "longitude": 74.0050,
+        "total_capacity": 3500,
+        "available_capacity": 2800,
+        "elevation_meters": 1420.0,
+        "suitability_score": 88.0,
+        "road_access_quality": "Paved State Highway 73",
+        "is_active": True,
+    },
+    {
+        "id": "S03",
+        "name": "Safe Site C - Chiplun High Ground Campus",
+        "alias": "shelter-c",
+        "latitude": 17.5450,
+        "longitude": 73.5350,
+        "total_capacity": 4500,
+        "available_capacity": 1200,
+        "elevation_meters": 1580.0,
+        "suitability_score": 65.0,
+        "road_access_quality": "Single Lane Asphalt",
+        "is_active": True,
+    },
+    {
+        "id": "S04",
+        "name": "Safe Site D - Kolhapur Sports Complex",
+        "alias": "shelter-d",
+        "latitude": 16.7020,
+        "longitude": 74.2420,
+        "total_capacity": 6000,
+        "available_capacity": 5100,
+        "elevation_meters": 1280.0,
+        "suitability_score": 94.0,
+        "road_access_quality": "Dual Carriageway NH-48",
+        "is_active": True,
+    },
+    {
+        "id": "S05",
+        "name": "Safe Site E - Pune Western Regional Center",
+        "alias": "shelter-e",
+        "latitude": 18.5200,
+        "longitude": 73.8550,
+        "total_capacity": 2000,
+        "available_capacity": 1900,
+        "elevation_meters": 1720.0,
+        "suitability_score": 74.0,
+        "road_access_quality": "Mountain Metal Road",
+        "is_active": True,
+    },
+    {
+        "id": "S06",
+        "name": "Safe Site F - Ratnagiri Coastal Buffer Shelter",
+        "alias": "shelter-f",
+        "latitude": 16.9900,
+        "longitude": 73.3000,
+        "total_capacity": 3000,
+        "available_capacity": 2150,
+        "elevation_meters": 1410.0,
+        "suitability_score": 81.0,
+        "road_access_quality": "Paved Coastal Highway",
+        "is_active": True,
+    }
+]
+
+# 3. Mock Hazard Zones (GeoJSON structures for Maharashtra)
+MOCK_HAZARD_ZONES: List[Dict[str, Any]] = [
+    {
+        "id": "FZ01",
+        "name": "Savitri River Basin Flood Zone (Raigad)",
+        "hazard_type": "Flood",
+        "risk_level": "High",
+        "avgDepth": "1.8m",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [73.300, 18.050],
+                    [73.650, 18.020],
+                    [73.680, 17.880],
+                    [73.550, 17.850],
+                    [73.280, 17.950],
+                    [73.300, 18.050]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "FZ02",
+        "name": "Panchganga River Low-lying Zone (Kolhapur)",
+        "hazard_type": "Flood",
+        "risk_level": "Critical",
+        "avgDepth": "2.8m",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [74.150, 16.750],
+                    [74.620, 16.720],
+                    [74.600, 16.620],
+                    [74.180, 16.650],
+                    [74.150, 16.750]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "LZ01",
+        "name": "Mahad Slope Failure Zone (Raigad / Western Ghats)",
+        "hazard_type": "Landslide",
+        "risk_level": "Critical",
+        "slopeAngle": "42 deg",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [73.550, 17.980],
+                    [73.680, 17.980],
+                    [73.650, 17.880],
+                    [73.520, 17.890],
+                    [73.550, 17.980]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "LZ02",
+        "name": "Malin Slope Failure Plain (Pune)",
+        "hazard_type": "Landslide",
+        "risk_level": "High",
+        "slopeAngle": "36 deg",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [73.600, 19.220],
+                    [73.750, 19.220],
+                    [73.720, 19.100],
+                    [73.580, 19.120],
+                    [73.600, 19.220]
+                ]
+            ]
+        }
+    }
+]
+
+# 4. Mock Emergency Alerts (Maharashtra Telemetry Bulletins)
+MOCK_ALERTS: List[Dict[str, Any]] = [
+    {
+        "id": "A01",
+        "village_id": "V01",
+        "village_name": "Taliye Heights - Mahad",
+        "district": "Raigad",
+        "type": "CRITICAL",
+        "message": "Immediate Attention: Landslide susceptibility spiked in Mahad slopes due to continuous heavy monsoon rainfall. Soil saturation index has crossed 88%.",
+        "time": "10:15 AM",
+        "read": False,
+    },
+    {
+        "id": "A02",
+        "village_id": "V03",
+        "village_name": "Chiplun Vashishti Riverside",
+        "district": "Ratnagiri",
+        "type": "HIGH",
+        "message": "High Alert: Water levels in Vashishti river channel have crossed warning mark by +1.2m. Flash flood preparation advised for market sector.",
+        "time": "09:45 AM",
+        "read": False,
+    },
+    {
+        "id": "A03",
+        "village_id": "V06",
+        "village_name": "Dasgaon Basin",
+        "district": "Raigad",
+        "type": "CRITICAL",
+        "message": "Immediate Evacuation: Critical water level exceeded at Savitri dam checkpost. Low-lying habitations in Dasgaon flooding now.",
+        "time": "09:30 AM",
+        "read": False,
+    },
+    {
+        "id": "A04",
+        "village_id": "V09",
+        "village_name": "Chikhali Panchganga Bank",
+        "district": "Kolhapur",
+        "type": "CRITICAL",
+        "message": "Monitor Alert: Panchganga river discharge rising rapidly. Evacuation buses staged for Chikhali and Prayag sectors.",
+        "time": "09:20 AM",
+        "read": True,
+    },
+    {
+        "id": "A05",
+        "village_id": "V12",
+        "village_name": "Kumbharli Slope",
+        "district": "Satara",
+        "type": "HIGH",
+        "message": "High Alert: Micro-fractures detected by slope telemetry sensors along Kumbharli Ghat section.",
+        "time": "08:50 AM",
+        "read": False,
+    }
+]

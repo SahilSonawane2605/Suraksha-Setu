@@ -1,0 +1,211 @@
+[
+  {
+    "id": "RLS-001",
+    "name": "Nuabindha Relief Site",
+    "district": "Jagatsinghpur",
+    "lat": 20.4693,
+    "lng": 85.8284,
+    "capacity": 3414,
+    "currentOccupancy": 810,
+    "facilities": [
+      "Shelter Halls",
+      "School Building",
+      "Community Kitchen",
+      "Water Supply"
+    ],
+    "suitabilityScore": 71,
+    "distanceFromRiskZoneKm": 18.8,
+    "status": "planned"
+  },
+  {
+    "id": "RLS-002",
+    "name": "Nuakuda Relief Site",
+    "district": "Ganjam",
+    "lat": 19.2971,
+    "lng": 84.9988,
+    "capacity": 1121,
+    "currentOccupancy": 419,
+    "facilities": [
+      "Sanitation",
+      "Medical Post",
+      "Community Kitchen"
+    ],
+    "suitabilityScore": 94,
+    "distanceFromRiskZoneKm": 26.8,
+    "status": "under-construction"
+  },
+  {
+    "id": "RLS-003",
+    "name": "Purbagaon Relief Site",
+    "district": "Puri",
+    "lat": 20.1104,
+    "lng": 86.0125,
+    "capacity": 2139,
+    "currentOccupancy": 983,
+    "facilities": [
+      "Medical Post",
+      "Shelter Halls"
+    ],
+    "suitabilityScore": 79,
+    "distanceFromRiskZoneKm": 6.9,
+    "status": "ready"
+  },
+  {
+    "id": "RLS-004",
+    "name": "Madhyakhali Relief Site",
+    "district": "Ganjam",
+    "lat": 19.0829,
+    "lng": 84.6645,
+    "capacity": 3694,
+    "currentOccupancy": 1841,
+    "facilities": [
+      "Electricity",
+      "Sanitation"
+    ],
+    "suitabilityScore": 77,
+    "distanceFromRiskZoneKm": 36.7,
+    "status": "ready"
+  },
+  {
+    "id": "RLS-005",
+    "name": "Madhyasasan Relief Site",
+    "district": "Puri",
+    "lat": 19.8384,
+    "lng": 85.7435,
+    "capacity": 3550,
+    "currentOccupancy": 1534,
+    "facilities": [
+      "Sanitation",
+      "School Building",
+      "Electricity",
+      "Medical Post"
+    ],
+    "suitabilityScore": 63,
+    "distanceFromRiskZoneKm": 17.9,
+    "status": "under-construction"
+  },
+  {
+    "id": "RLS-006",
+    "name": "Nuabindha Relief Site",
+    "district": "Ganjam",
+    "lat": 19.0432,
+    "lng": 84.7141,
+    "capacity": 1808,
+    "currentOccupancy": 611,
+    "facilities": [
+      "Medical Post",
+      "Road Access",
+      "Electricity",
+      "Shelter Halls"
+    ],
+    "suitabilityScore": 82,
+    "distanceFromRiskZoneKm": 41.1,
+    "status": "ready"
+  },
+  {
+    "id": "RLS-007",
+    "name": "Puranagiri Relief Site",
+    "district": "Kalahandi",
+    "lat": 20.1226,
+    "lng": 83.4945,
+    "capacity": 1955,
+    "currentOccupancy": 295,
+    "facilities": [
+      "Water Supply",
+      "Medical Post",
+      "Sanitation",
+      "Electricity"
+    ],
+    "suitabilityScore": 87,
+    "distanceFromRiskZoneKm": 12.6,
+    "status": "planned"
+  },
+  {
+    "id": "RLS-008",
+    "name": "Sanasasan Relief Site",
+    "district": "Kendrapara",
+    "lat": 20.1665,
+    "lng": 86.1404,
+    "capacity": 3118,
+    "currentOccupancy": 171,
+    "facilities": [
+      "Water Supply",
+      "Electricity",
+      "Road Access",
+      "Medical Post",
+      "School Building"
+    ],
+    "suitabilityScore": 88,
+    "distanceFromRiskZoneKm": 33.1,
+    "status": "ready"
+  },
+  {
+    "id": "RLS-009",
+    "name": "Madhyatikiri Relief Site",
+    "district": "Koraput",
+    "lat": 18.6486,
+    "lng": 82.5799,
+    "capacity": 2506,
+    "currentOccupancy": 1069,
+    "facilities": [
+      "Sanitation",
+      "Medical Post"
+    ],
+    "suitabilityScore": 88,
+    "distanceFromRiskZoneKm": 34.1,
+    "status": "under-construction"
+  },
+  {
+    "id": "RLS-010",
+    "name": "Puranagiri Relief Site",
+    "district": "Koraput",
+    "lat": 18.4642,
+    "lng": 82.6624,
+    "capacity": 3328,
+    "currentOccupancy": 437,
+    "facilities": [
+      "Sanitation",
+      "Shelter Halls",
+      "Road Access"
+    ],
+    "suitabilityScore": 63,
+    "distanceFromRiskZoneKm": 42.5,
+    "status": "under-construction"
+  },
+  {
+    "id": "RLS-011",
+    "name": "Uttarpada Relief Site",
+    "district": "Ganjam",
+    "lat": 19.6452,
+    "lng": 84.8751,
+    "capacity": 978,
+    "currentOccupancy": 206,
+    "facilities": [
+      "Shelter Halls",
+      "Medical Post",
+      "School Building",
+      "Road Access"
+    ],
+    "suitabilityScore": 70,
+    "distanceFromRiskZoneKm": 5.9,
+    "status": "ready"
+  },
+  {
+    "id": "RLS-012",
+    "name": "Puranakhali Relief Site",
+    "district": "Kendrapara",
+    "lat": 20.2499,
+    "lng": 86.3933,
+    "capacity": 2142,
+    "currentOccupancy": 864,
+    "facilities": [
+      "School Building",
+      "Road Access",
+      "Shelter Halls",
+      "Medical Post"
+    ],
+    "suitabilityScore": 78,
+    "distanceFromRiskZoneKm": 35.2,
+    "status": "ready"
+  }
+]

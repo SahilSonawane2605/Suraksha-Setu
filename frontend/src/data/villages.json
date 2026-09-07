@@ -1,0 +1,3093 @@
+[
+  {
+    "id": "VLG-0016",
+    "name": "Purbagaon",
+    "district": "Puri",
+    "block": "Kakatpur",
+    "state": "Odisha",
+    "lat": 19.5616,
+    "lng": 85.913,
+    "population": 4671,
+    "households": 1168,
+    "riskScore": 98,
+    "riskLevel": "critical",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-02",
+    "vulnerableGroups": {
+      "children": 947,
+      "elderly": 633,
+      "disabled": 129
+    }
+  },
+  {
+    "id": "VLG-0003",
+    "name": "Sananagar",
+    "district": "Puri",
+    "block": "Satyabadi",
+    "state": "Odisha",
+    "lat": 19.5166,
+    "lng": 85.9757,
+    "population": 4951,
+    "households": 1238,
+    "riskScore": 97,
+    "riskLevel": "critical",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-07-19",
+    "vulnerableGroups": {
+      "children": 920,
+      "elderly": 415,
+      "disabled": 91
+    }
+  },
+  {
+    "id": "VLG-0004",
+    "name": "Puranakuda",
+    "district": "Kalahandi",
+    "block": "Narla",
+    "state": "Odisha",
+    "lat": 19.9672,
+    "lng": 83.4229,
+    "population": 1226,
+    "households": 204,
+    "riskScore": 97,
+    "riskLevel": "critical",
+    "hazards": [
+      "Drought",
+      "Landslide"
+    ],
+    "lastAssessed": "2026-09-28",
+    "vulnerableGroups": {
+      "children": 266,
+      "elderly": 144,
+      "disabled": 20
+    }
+  },
+  {
+    "id": "VLG-0001",
+    "name": "Madhyakhali",
+    "district": "Koraput",
+    "block": "Semiliguda",
+    "state": "Odisha",
+    "lat": 19.0627,
+    "lng": 82.8992,
+    "population": 3719,
+    "households": 620,
+    "riskScore": 96,
+    "riskLevel": "critical",
+    "hazards": [
+      "Drought",
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-08-27",
+    "vulnerableGroups": {
+      "children": 965,
+      "elderly": 497,
+      "disabled": 51
+    }
+  },
+  {
+    "id": "VLG-0007",
+    "name": "Uttartikiri",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.5531,
+    "lng": 86.1952,
+    "population": 5230,
+    "households": 872,
+    "riskScore": 96,
+    "riskLevel": "critical",
+    "hazards": [
+      "Cyclone",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-16",
+    "vulnerableGroups": {
+      "children": 1282,
+      "elderly": 454,
+      "disabled": 135
+    }
+  },
+  {
+    "id": "VLG-0019",
+    "name": "Sanabindha",
+    "district": "Kalahandi",
+    "block": "Kesinga",
+    "state": "Odisha",
+    "lat": 19.8387,
+    "lng": 82.9822,
+    "population": 1959,
+    "households": 327,
+    "riskScore": 96,
+    "riskLevel": "critical",
+    "hazards": [
+      "Drought",
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-08-21",
+    "vulnerableGroups": {
+      "children": 368,
+      "elderly": 258,
+      "disabled": 58
+    }
+  },
+  {
+    "id": "VLG-0011",
+    "name": "Paschimnagar",
+    "district": "Koraput",
+    "block": "Pottangi",
+    "state": "Odisha",
+    "lat": 18.5536,
+    "lng": 82.2912,
+    "population": 4468,
+    "households": 1117,
+    "riskScore": 95,
+    "riskLevel": "critical",
+    "hazards": [
+      "Drought",
+      "Landslide"
+    ],
+    "lastAssessed": "2026-08-10",
+    "vulnerableGroups": {
+      "children": 962,
+      "elderly": 475,
+      "disabled": 98
+    }
+  },
+  {
+    "id": "VLG-0013",
+    "name": "Puranadihi",
+    "district": "Koraput",
+    "block": "Pottangi",
+    "state": "Odisha",
+    "lat": 18.7147,
+    "lng": 83.1139,
+    "population": 3810,
+    "households": 953,
+    "riskScore": 95,
+    "riskLevel": "critical",
+    "hazards": [
+      "Earthquake",
+      "Drought"
+    ],
+    "lastAssessed": "2026-07-10",
+    "vulnerableGroups": {
+      "children": 964,
+      "elderly": 468,
+      "disabled": 70
+    }
+  },
+  {
+    "id": "VLG-0015",
+    "name": "Badapatna",
+    "district": "Jagatsinghpur",
+    "block": "Erasama",
+    "state": "Odisha",
+    "lat": 20.5371,
+    "lng": 85.9711,
+    "population": 2628,
+    "households": 526,
+    "riskScore": 95,
+    "riskLevel": "critical",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-07-05",
+    "vulnerableGroups": {
+      "children": 681,
+      "elderly": 306,
+      "disabled": 36
+    }
+  },
+  {
+    "id": "VLG-0002",
+    "name": "Paschimsahi",
+    "district": "Puri",
+    "block": "Satyabadi",
+    "state": "Odisha",
+    "lat": 19.3865,
+    "lng": 85.8715,
+    "population": 2983,
+    "households": 746,
+    "riskScore": 93,
+    "riskLevel": "critical",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-07-21",
+    "vulnerableGroups": {
+      "children": 566,
+      "elderly": 401,
+      "disabled": 58
+    }
+  },
+  {
+    "id": "VLG-0018",
+    "name": "Paschimkhali",
+    "district": "Balasore",
+    "block": "Bhograi",
+    "state": "Odisha",
+    "lat": 21.8117,
+    "lng": 86.6213,
+    "population": 4526,
+    "households": 905,
+    "riskScore": 93,
+    "riskLevel": "critical",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-06-07",
+    "vulnerableGroups": {
+      "children": 1003,
+      "elderly": 517,
+      "disabled": 54
+    }
+  },
+  {
+    "id": "VLG-0005",
+    "name": "Sanakuda",
+    "district": "Bhadrak",
+    "block": "Chandbali",
+    "state": "Odisha",
+    "lat": 20.8584,
+    "lng": 86.9215,
+    "population": 387,
+    "households": 97,
+    "riskScore": 91,
+    "riskLevel": "critical",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-12",
+    "vulnerableGroups": {
+      "children": 85,
+      "elderly": 44,
+      "disabled": 5
+    }
+  },
+  {
+    "id": "VLG-0008",
+    "name": "Puranabank",
+    "district": "Bhadrak",
+    "block": "Chandbali",
+    "state": "Odisha",
+    "lat": 20.9172,
+    "lng": 86.1523,
+    "population": 3628,
+    "households": 605,
+    "riskScore": 90,
+    "riskLevel": "critical",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-08-05",
+    "vulnerableGroups": {
+      "children": 838,
+      "elderly": 448,
+      "disabled": 41
+    }
+  },
+  {
+    "id": "VLG-0017",
+    "name": "Uttarbank",
+    "district": "Puri",
+    "block": "Kakatpur",
+    "state": "Odisha",
+    "lat": 19.9546,
+    "lng": 85.6357,
+    "population": 1248,
+    "households": 312,
+    "riskScore": 90,
+    "riskLevel": "critical",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-06-02",
+    "vulnerableGroups": {
+      "children": 282,
+      "elderly": 172,
+      "disabled": 15
+    }
+  },
+  {
+    "id": "VLG-0020",
+    "name": "Uttargiri",
+    "district": "Balasore",
+    "block": "Baliapal",
+    "state": "Odisha",
+    "lat": 21.8636,
+    "lng": 87.2489,
+    "population": 666,
+    "households": 133,
+    "riskScore": 90,
+    "riskLevel": "critical",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-19",
+    "vulnerableGroups": {
+      "children": 172,
+      "elderly": 66,
+      "disabled": 18
+    }
+  },
+  {
+    "id": "VLG-0006",
+    "name": "Purbapatna",
+    "district": "Kendrapara",
+    "block": "Rajkanika",
+    "state": "Odisha",
+    "lat": 20.8581,
+    "lng": 86.0208,
+    "population": 2859,
+    "households": 572,
+    "riskScore": 89,
+    "riskLevel": "critical",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-07-14",
+    "vulnerableGroups": {
+      "children": 688,
+      "elderly": 252,
+      "disabled": 37
+    }
+  },
+  {
+    "id": "VLG-0009",
+    "name": "Sanabank",
+    "district": "Ganjam",
+    "block": "Chikiti",
+    "state": "Odisha",
+    "lat": 19.7488,
+    "lng": 85.0857,
+    "population": 5621,
+    "households": 1405,
+    "riskScore": 87,
+    "riskLevel": "critical",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-21",
+    "vulnerableGroups": {
+      "children": 1329,
+      "elderly": 652,
+      "disabled": 85
+    }
+  },
+  {
+    "id": "VLG-0021",
+    "name": "Madhyasahi",
+    "district": "Kendrapara",
+    "block": "Marshaghai",
+    "state": "Odisha",
+    "lat": 20.8008,
+    "lng": 86.3816,
+    "population": 669,
+    "households": 167,
+    "riskScore": 86,
+    "riskLevel": "critical",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-06-27",
+    "vulnerableGroups": {
+      "children": 137,
+      "elderly": 63,
+      "disabled": 18
+    }
+  },
+  {
+    "id": "VLG-0022",
+    "name": "Dakshinsahi",
+    "district": "Balasore",
+    "block": "Basta",
+    "state": "Odisha",
+    "lat": 21.2135,
+    "lng": 87.2994,
+    "population": 4954,
+    "households": 991,
+    "riskScore": 85,
+    "riskLevel": "critical",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-26",
+    "vulnerableGroups": {
+      "children": 900,
+      "elderly": 437,
+      "disabled": 135
+    }
+  },
+  {
+    "id": "VLG-0023",
+    "name": "Sanabindha",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.5891,
+    "lng": 84.9758,
+    "population": 4805,
+    "households": 961,
+    "riskScore": 85,
+    "riskLevel": "critical",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-15",
+    "vulnerableGroups": {
+      "children": 977,
+      "elderly": 615,
+      "disabled": 117
+    }
+  },
+  {
+    "id": "VLG-0010",
+    "name": "Dakshinpada",
+    "district": "Kalahandi",
+    "block": "Dharmagarh",
+    "state": "Odisha",
+    "lat": 19.7199,
+    "lng": 83.1143,
+    "population": 4037,
+    "households": 1009,
+    "riskScore": 84,
+    "riskLevel": "critical",
+    "hazards": [
+      "Drought"
+    ],
+    "lastAssessed": "2026-08-24",
+    "vulnerableGroups": {
+      "children": 859,
+      "elderly": 375,
+      "disabled": 106
+    }
+  },
+  {
+    "id": "VLG-0012",
+    "name": "Nuakhali",
+    "district": "Kalahandi",
+    "block": "Narla",
+    "state": "Odisha",
+    "lat": 20.1843,
+    "lng": 82.8791,
+    "population": 2222,
+    "households": 370,
+    "riskScore": 84,
+    "riskLevel": "critical",
+    "hazards": [
+      "Drought",
+      "Landslide"
+    ],
+    "lastAssessed": "2026-09-23",
+    "vulnerableGroups": {
+      "children": 411,
+      "elderly": 307,
+      "disabled": 39
+    }
+  },
+  {
+    "id": "VLG-0014",
+    "name": "Dakshinkuda",
+    "district": "Puri",
+    "block": "Kakatpur",
+    "state": "Odisha",
+    "lat": 20.2422,
+    "lng": 85.7344,
+    "population": 5849,
+    "households": 1462,
+    "riskScore": 82,
+    "riskLevel": "critical",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-06-25",
+    "vulnerableGroups": {
+      "children": 1414,
+      "elderly": 750,
+      "disabled": 170
+    }
+  },
+  {
+    "id": "VLG-0035",
+    "name": "Uttartikiri",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.0111,
+    "lng": 84.827,
+    "population": 5463,
+    "households": 1366,
+    "riskScore": 79,
+    "riskLevel": "high",
+    "hazards": [
+      "Flood",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-07-22",
+    "vulnerableGroups": {
+      "children": 1387,
+      "elderly": 498,
+      "disabled": 155
+    }
+  },
+  {
+    "id": "VLG-0036",
+    "name": "Sanasasan",
+    "district": "Koraput",
+    "block": "Semiliguda",
+    "state": "Odisha",
+    "lat": 18.9452,
+    "lng": 82.5241,
+    "population": 1268,
+    "households": 211,
+    "riskScore": 79,
+    "riskLevel": "high",
+    "hazards": [
+      "Drought"
+    ],
+    "lastAssessed": "2026-08-15",
+    "vulnerableGroups": {
+      "children": 248,
+      "elderly": 145,
+      "disabled": 20
+    }
+  },
+  {
+    "id": "VLG-0043",
+    "name": "Sananagar",
+    "district": "Kalahandi",
+    "block": "Narla",
+    "state": "Odisha",
+    "lat": 19.5161,
+    "lng": 82.7179,
+    "population": 3902,
+    "households": 780,
+    "riskScore": 79,
+    "riskLevel": "high",
+    "hazards": [
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-06-18",
+    "vulnerableGroups": {
+      "children": 757,
+      "elderly": 364,
+      "disabled": 45
+    }
+  },
+  {
+    "id": "VLG-0051",
+    "name": "Madhyapur",
+    "district": "Puri",
+    "block": "Astaranga",
+    "state": "Odisha",
+    "lat": 19.4046,
+    "lng": 86.0804,
+    "population": 1696,
+    "households": 424,
+    "riskScore": 79,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-06-14",
+    "vulnerableGroups": {
+      "children": 401,
+      "elderly": 141,
+      "disabled": 50
+    }
+  },
+  {
+    "id": "VLG-0059",
+    "name": "Uttartikiri",
+    "district": "Bhadrak",
+    "block": "Chandbali",
+    "state": "Odisha",
+    "lat": 20.775,
+    "lng": 86.3793,
+    "population": 5747,
+    "households": 958,
+    "riskScore": 79,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-20",
+    "vulnerableGroups": {
+      "children": 1060,
+      "elderly": 523,
+      "disabled": 61
+    }
+  },
+  {
+    "id": "VLG-0038",
+    "name": "Nuagaon",
+    "district": "Balasore",
+    "block": "Baliapal",
+    "state": "Odisha",
+    "lat": 21.3373,
+    "lng": 86.7288,
+    "population": 5380,
+    "households": 1345,
+    "riskScore": 78,
+    "riskLevel": "high",
+    "hazards": [
+      "Flood",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-18",
+    "vulnerableGroups": {
+      "children": 1081,
+      "elderly": 603,
+      "disabled": 118
+    }
+  },
+  {
+    "id": "VLG-0052",
+    "name": "Dakshinpada",
+    "district": "Kalahandi",
+    "block": "Junagarh",
+    "state": "Odisha",
+    "lat": 19.6965,
+    "lng": 83.3886,
+    "population": 1825,
+    "households": 304,
+    "riskScore": 78,
+    "riskLevel": "high",
+    "hazards": [
+      "Landslide"
+    ],
+    "lastAssessed": "2026-06-10",
+    "vulnerableGroups": {
+      "children": 365,
+      "elderly": 216,
+      "disabled": 40
+    }
+  },
+  {
+    "id": "VLG-0049",
+    "name": "Dakshingaon",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.9208,
+    "lng": 86.8275,
+    "population": 3324,
+    "households": 554,
+    "riskScore": 77,
+    "riskLevel": "high",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-08-18",
+    "vulnerableGroups": {
+      "children": 679,
+      "elderly": 339,
+      "disabled": 67
+    }
+  },
+  {
+    "id": "VLG-0065",
+    "name": "Uttarpur",
+    "district": "Bhadrak",
+    "block": "Dhamnagar",
+    "state": "Odisha",
+    "lat": 21.2193,
+    "lng": 86.137,
+    "population": 5251,
+    "households": 1313,
+    "riskScore": 77,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-08",
+    "vulnerableGroups": {
+      "children": 1275,
+      "elderly": 551,
+      "disabled": 124
+    }
+  },
+  {
+    "id": "VLG-0066",
+    "name": "Purbagaon",
+    "district": "Kalahandi",
+    "block": "Junagarh",
+    "state": "Odisha",
+    "lat": 19.9893,
+    "lng": 83.1865,
+    "population": 3878,
+    "households": 646,
+    "riskScore": 77,
+    "riskLevel": "high",
+    "hazards": [
+      "Drought",
+      "Landslide"
+    ],
+    "lastAssessed": "2026-08-17",
+    "vulnerableGroups": {
+      "children": 727,
+      "elderly": 460,
+      "disabled": 83
+    }
+  },
+  {
+    "id": "VLG-0039",
+    "name": "Dakshinkhali",
+    "district": "Koraput",
+    "block": "Pottangi",
+    "state": "Odisha",
+    "lat": 18.8318,
+    "lng": 82.8907,
+    "population": 660,
+    "households": 165,
+    "riskScore": 75,
+    "riskLevel": "high",
+    "hazards": [
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-06-18",
+    "vulnerableGroups": {
+      "children": 119,
+      "elderly": 78,
+      "disabled": 12
+    }
+  },
+  {
+    "id": "VLG-0044",
+    "name": "Paschimbank",
+    "district": "Puri",
+    "block": "Gop",
+    "state": "Odisha",
+    "lat": 19.3879,
+    "lng": 85.5408,
+    "population": 1192,
+    "households": 298,
+    "riskScore": 75,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-19",
+    "vulnerableGroups": {
+      "children": 252,
+      "elderly": 105,
+      "disabled": 27
+    }
+  },
+  {
+    "id": "VLG-0067",
+    "name": "Madhyadihi",
+    "district": "Kalahandi",
+    "block": "Dharmagarh",
+    "state": "Odisha",
+    "lat": 19.8036,
+    "lng": 83.3606,
+    "population": 3806,
+    "households": 952,
+    "riskScore": 75,
+    "riskLevel": "high",
+    "hazards": [
+      "Landslide"
+    ],
+    "lastAssessed": "2026-06-26",
+    "vulnerableGroups": {
+      "children": 762,
+      "elderly": 497,
+      "disabled": 70
+    }
+  },
+  {
+    "id": "VLG-0062",
+    "name": "Dakshinpatna",
+    "district": "Kalahandi",
+    "block": "Dharmagarh",
+    "state": "Odisha",
+    "lat": 19.693,
+    "lng": 83.3528,
+    "population": 4074,
+    "households": 1019,
+    "riskScore": 74,
+    "riskLevel": "high",
+    "hazards": [
+      "Drought"
+    ],
+    "lastAssessed": "2026-09-17",
+    "vulnerableGroups": {
+      "children": 792,
+      "elderly": 534,
+      "disabled": 48
+    }
+  },
+  {
+    "id": "VLG-0068",
+    "name": "Dakshinpada",
+    "district": "Bhadrak",
+    "block": "Chandbali",
+    "state": "Odisha",
+    "lat": 21.417,
+    "lng": 86.6481,
+    "population": 2108,
+    "households": 351,
+    "riskScore": 74,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-28",
+    "vulnerableGroups": {
+      "children": 401,
+      "elderly": 174,
+      "disabled": 57
+    }
+  },
+  {
+    "id": "VLG-0045",
+    "name": "Dakshintikiri",
+    "district": "Balasore",
+    "block": "Bhograi",
+    "state": "Odisha",
+    "lat": 21.3123,
+    "lng": 86.7267,
+    "population": 2901,
+    "households": 484,
+    "riskScore": 73,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-06",
+    "vulnerableGroups": {
+      "children": 542,
+      "elderly": 245,
+      "disabled": 87
+    }
+  },
+  {
+    "id": "VLG-0061",
+    "name": "Puranapada",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.7847,
+    "lng": 85.0428,
+    "population": 2987,
+    "households": 498,
+    "riskScore": 73,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-20",
+    "vulnerableGroups": {
+      "children": 601,
+      "elderly": 400,
+      "disabled": 86
+    }
+  },
+  {
+    "id": "VLG-0030",
+    "name": "Uttargaon",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.0803,
+    "lng": 84.682,
+    "population": 2843,
+    "households": 474,
+    "riskScore": 72,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-27",
+    "vulnerableGroups": {
+      "children": 563,
+      "elderly": 340,
+      "disabled": 61
+    }
+  },
+  {
+    "id": "VLG-0037",
+    "name": "Badakuda",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.2775,
+    "lng": 86.0224,
+    "population": 1900,
+    "households": 475,
+    "riskScore": 72,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion",
+      "Flood"
+    ],
+    "lastAssessed": "2026-08-01",
+    "vulnerableGroups": {
+      "children": 427,
+      "elderly": 259,
+      "disabled": 30
+    }
+  },
+  {
+    "id": "VLG-0050",
+    "name": "Madhyasasan",
+    "district": "Koraput",
+    "block": "Semiliguda",
+    "state": "Odisha",
+    "lat": 19.2179,
+    "lng": 82.3896,
+    "population": 4258,
+    "households": 852,
+    "riskScore": 71,
+    "riskLevel": "high",
+    "hazards": [
+      "Drought",
+      "Landslide"
+    ],
+    "lastAssessed": "2026-08-11",
+    "vulnerableGroups": {
+      "children": 885,
+      "elderly": 493,
+      "disabled": 58
+    }
+  },
+  {
+    "id": "VLG-0053",
+    "name": "Madhyatikiri",
+    "district": "Bhadrak",
+    "block": "Chandbali",
+    "state": "Odisha",
+    "lat": 21.0692,
+    "lng": 86.7464,
+    "population": 946,
+    "households": 158,
+    "riskScore": 70,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-25",
+    "vulnerableGroups": {
+      "children": 184,
+      "elderly": 99,
+      "disabled": 13
+    }
+  },
+  {
+    "id": "VLG-0027",
+    "name": "Madhyasasan",
+    "district": "Bhadrak",
+    "block": "Tihidi",
+    "state": "Odisha",
+    "lat": 20.7575,
+    "lng": 86.8348,
+    "population": 2227,
+    "households": 557,
+    "riskScore": 68,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-08-09",
+    "vulnerableGroups": {
+      "children": 470,
+      "elderly": 276,
+      "disabled": 64
+    }
+  },
+  {
+    "id": "VLG-0033",
+    "name": "Uttarnagar",
+    "district": "Kendrapara",
+    "block": "Marshaghai",
+    "state": "Odisha",
+    "lat": 20.8033,
+    "lng": 86.3776,
+    "population": 5950,
+    "households": 992,
+    "riskScore": 68,
+    "riskLevel": "high",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-04",
+    "vulnerableGroups": {
+      "children": 1198,
+      "elderly": 656,
+      "disabled": 154
+    }
+  },
+  {
+    "id": "VLG-0042",
+    "name": "Madhyagaon",
+    "district": "Ganjam",
+    "block": "Chhatrapur",
+    "state": "Odisha",
+    "lat": 19.2874,
+    "lng": 85.0153,
+    "population": 2161,
+    "households": 360,
+    "riskScore": 68,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-04",
+    "vulnerableGroups": {
+      "children": 513,
+      "elderly": 238,
+      "disabled": 45
+    }
+  },
+  {
+    "id": "VLG-0054",
+    "name": "Sanasasan",
+    "district": "Bhadrak",
+    "block": "Basudevpur",
+    "state": "Odisha",
+    "lat": 21.1548,
+    "lng": 86.5728,
+    "population": 6239,
+    "households": 1560,
+    "riskScore": 68,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-20",
+    "vulnerableGroups": {
+      "children": 1292,
+      "elderly": 736,
+      "disabled": 94
+    }
+  },
+  {
+    "id": "VLG-0064",
+    "name": "Dakshinkuda",
+    "district": "Kalahandi",
+    "block": "Kesinga",
+    "state": "Odisha",
+    "lat": 20.2741,
+    "lng": 82.7596,
+    "population": 412,
+    "households": 69,
+    "riskScore": 68,
+    "riskLevel": "high",
+    "hazards": [
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-07-24",
+    "vulnerableGroups": {
+      "children": 80,
+      "elderly": 46,
+      "disabled": 11
+    }
+  },
+  {
+    "id": "VLG-0031",
+    "name": "Puranapatna",
+    "district": "Jagatsinghpur",
+    "block": "Balikuda",
+    "state": "Odisha",
+    "lat": 20.3285,
+    "lng": 86.4021,
+    "population": 5913,
+    "households": 986,
+    "riskScore": 67,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-08",
+    "vulnerableGroups": {
+      "children": 1499,
+      "elderly": 729,
+      "disabled": 80
+    }
+  },
+  {
+    "id": "VLG-0024",
+    "name": "Uttardihi",
+    "district": "Puri",
+    "block": "Satyabadi",
+    "state": "Odisha",
+    "lat": 19.5962,
+    "lng": 86.1979,
+    "population": 4859,
+    "households": 972,
+    "riskScore": 66,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-14",
+    "vulnerableGroups": {
+      "children": 962,
+      "elderly": 559,
+      "disabled": 108
+    }
+  },
+  {
+    "id": "VLG-0026",
+    "name": "Paschimpatna",
+    "district": "Kalahandi",
+    "block": "Dharmagarh",
+    "state": "Odisha",
+    "lat": 19.5849,
+    "lng": 83.3769,
+    "population": 385,
+    "households": 77,
+    "riskScore": 66,
+    "riskLevel": "high",
+    "hazards": [
+      "Landslide"
+    ],
+    "lastAssessed": "2026-06-19",
+    "vulnerableGroups": {
+      "children": 70,
+      "elderly": 35,
+      "disabled": 6
+    }
+  },
+  {
+    "id": "VLG-0056",
+    "name": "Purbatikiri",
+    "district": "Puri",
+    "block": "Gop",
+    "state": "Odisha",
+    "lat": 20.2119,
+    "lng": 86.1437,
+    "population": 4962,
+    "households": 827,
+    "riskScore": 66,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion",
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-09",
+    "vulnerableGroups": {
+      "children": 943,
+      "elderly": 630,
+      "disabled": 108
+    }
+  },
+  {
+    "id": "VLG-0060",
+    "name": "Purbabank",
+    "district": "Puri",
+    "block": "Kakatpur",
+    "state": "Odisha",
+    "lat": 20.2339,
+    "lng": 85.659,
+    "population": 5428,
+    "households": 1357,
+    "riskScore": 66,
+    "riskLevel": "high",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-07-01",
+    "vulnerableGroups": {
+      "children": 1184,
+      "elderly": 686,
+      "disabled": 154
+    }
+  },
+  {
+    "id": "VLG-0063",
+    "name": "Dakshinbindha",
+    "district": "Bhadrak",
+    "block": "Tihidi",
+    "state": "Odisha",
+    "lat": 20.6681,
+    "lng": 86.3684,
+    "population": 4983,
+    "households": 831,
+    "riskScore": 66,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-09",
+    "vulnerableGroups": {
+      "children": 1201,
+      "elderly": 546,
+      "disabled": 140
+    }
+  },
+  {
+    "id": "VLG-0025",
+    "name": "Purbatikiri",
+    "district": "Jagatsinghpur",
+    "block": "Tirtol",
+    "state": "Odisha",
+    "lat": 20.243,
+    "lng": 86.6087,
+    "population": 5697,
+    "households": 1424,
+    "riskScore": 65,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-06-01",
+    "vulnerableGroups": {
+      "children": 1190,
+      "elderly": 506,
+      "disabled": 154
+    }
+  },
+  {
+    "id": "VLG-0029",
+    "name": "Paschimdihi",
+    "district": "Kalahandi",
+    "block": "Kesinga",
+    "state": "Odisha",
+    "lat": 19.9615,
+    "lng": 83.0895,
+    "population": 1782,
+    "households": 297,
+    "riskScore": 64,
+    "riskLevel": "high",
+    "hazards": [
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-06-06",
+    "vulnerableGroups": {
+      "children": 343,
+      "elderly": 249,
+      "disabled": 45
+    }
+  },
+  {
+    "id": "VLG-0041",
+    "name": "Purbapada",
+    "district": "Ganjam",
+    "block": "Chikiti",
+    "state": "Odisha",
+    "lat": 19.6869,
+    "lng": 85.2964,
+    "population": 6199,
+    "households": 1033,
+    "riskScore": 64,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-06-24",
+    "vulnerableGroups": {
+      "children": 1536,
+      "elderly": 815,
+      "disabled": 69
+    }
+  },
+  {
+    "id": "VLG-0047",
+    "name": "Puranakuda",
+    "district": "Kalahandi",
+    "block": "Kesinga",
+    "state": "Odisha",
+    "lat": 19.7446,
+    "lng": 83.5198,
+    "population": 6276,
+    "households": 1046,
+    "riskScore": 64,
+    "riskLevel": "high",
+    "hazards": [
+      "Drought"
+    ],
+    "lastAssessed": "2026-07-14",
+    "vulnerableGroups": {
+      "children": 1143,
+      "elderly": 736,
+      "disabled": 131
+    }
+  },
+  {
+    "id": "VLG-0040",
+    "name": "Uttarpada",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.6834,
+    "lng": 85.2606,
+    "population": 1998,
+    "households": 500,
+    "riskScore": 63,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone",
+      "Flood"
+    ],
+    "lastAssessed": "2026-06-03",
+    "vulnerableGroups": {
+      "children": 485,
+      "elderly": 169,
+      "disabled": 42
+    }
+  },
+  {
+    "id": "VLG-0048",
+    "name": "Uttarbindha",
+    "district": "Bhadrak",
+    "block": "Tihidi",
+    "state": "Odisha",
+    "lat": 21.1128,
+    "lng": 86.5451,
+    "population": 3861,
+    "households": 644,
+    "riskScore": 63,
+    "riskLevel": "high",
+    "hazards": [
+      "Flood",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-27",
+    "vulnerableGroups": {
+      "children": 840,
+      "elderly": 497,
+      "disabled": 102
+    }
+  },
+  {
+    "id": "VLG-0057",
+    "name": "Sanakuda",
+    "district": "Koraput",
+    "block": "Pottangi",
+    "state": "Odisha",
+    "lat": 18.9001,
+    "lng": 82.5538,
+    "population": 2592,
+    "households": 648,
+    "riskScore": 63,
+    "riskLevel": "high",
+    "hazards": [
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-07-15",
+    "vulnerableGroups": {
+      "children": 545,
+      "elderly": 218,
+      "disabled": 30
+    }
+  },
+  {
+    "id": "VLG-0069",
+    "name": "Dakshingiri",
+    "district": "Balasore",
+    "block": "Remuna",
+    "state": "Odisha",
+    "lat": 21.773,
+    "lng": 86.7458,
+    "population": 2691,
+    "households": 449,
+    "riskScore": 62,
+    "riskLevel": "high",
+    "hazards": [
+      "Flood",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-21",
+    "vulnerableGroups": {
+      "children": 611,
+      "elderly": 373,
+      "disabled": 31
+    }
+  },
+  {
+    "id": "VLG-0028",
+    "name": "Nuapada",
+    "district": "Puri",
+    "block": "Astaranga",
+    "state": "Odisha",
+    "lat": 19.4511,
+    "lng": 85.5405,
+    "population": 6159,
+    "households": 1232,
+    "riskScore": 61,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-08-10",
+    "vulnerableGroups": {
+      "children": 1140,
+      "elderly": 663,
+      "disabled": 150
+    }
+  },
+  {
+    "id": "VLG-0032",
+    "name": "Paschimsahi",
+    "district": "Kendrapara",
+    "block": "Marshaghai",
+    "state": "Odisha",
+    "lat": 20.8473,
+    "lng": 86.2365,
+    "population": 1382,
+    "households": 230,
+    "riskScore": 61,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-04",
+    "vulnerableGroups": {
+      "children": 257,
+      "elderly": 140,
+      "disabled": 25
+    }
+  },
+  {
+    "id": "VLG-0058",
+    "name": "Uttarsasan",
+    "district": "Puri",
+    "block": "Kakatpur",
+    "state": "Odisha",
+    "lat": 19.598,
+    "lng": 85.389,
+    "population": 5542,
+    "households": 1386,
+    "riskScore": 61,
+    "riskLevel": "high",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-03",
+    "vulnerableGroups": {
+      "children": 1362,
+      "elderly": 547,
+      "disabled": 145
+    }
+  },
+  {
+    "id": "VLG-0070",
+    "name": "Purbatikiri",
+    "district": "Jagatsinghpur",
+    "block": "Tirtol",
+    "state": "Odisha",
+    "lat": 20.6477,
+    "lng": 86.266,
+    "population": 3113,
+    "households": 778,
+    "riskScore": 61,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-07",
+    "vulnerableGroups": {
+      "children": 717,
+      "elderly": 269,
+      "disabled": 77
+    }
+  },
+  {
+    "id": "VLG-0034",
+    "name": "Paschimgiri",
+    "district": "Bhadrak",
+    "block": "Dhamnagar",
+    "state": "Odisha",
+    "lat": 21.3773,
+    "lng": 86.1888,
+    "population": 5349,
+    "households": 892,
+    "riskScore": 60,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-13",
+    "vulnerableGroups": {
+      "children": 1050,
+      "elderly": 470,
+      "disabled": 137
+    }
+  },
+  {
+    "id": "VLG-0046",
+    "name": "Badanagar",
+    "district": "Koraput",
+    "block": "Semiliguda",
+    "state": "Odisha",
+    "lat": 19.2553,
+    "lng": 83.0953,
+    "population": 1340,
+    "households": 223,
+    "riskScore": 60,
+    "riskLevel": "high",
+    "hazards": [
+      "Drought",
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-06-10",
+    "vulnerableGroups": {
+      "children": 339,
+      "elderly": 142,
+      "disabled": 31
+    }
+  },
+  {
+    "id": "VLG-0055",
+    "name": "Purbagaon",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.1432,
+    "lng": 85.1211,
+    "population": 3571,
+    "households": 714,
+    "riskScore": 60,
+    "riskLevel": "high",
+    "hazards": [
+      "Cyclone",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-07-03",
+    "vulnerableGroups": {
+      "children": 722,
+      "elderly": 287,
+      "disabled": 59
+    }
+  },
+  {
+    "id": "VLG-0082",
+    "name": "Badapur",
+    "district": "Kendrapara",
+    "block": "Marshaghai",
+    "state": "Odisha",
+    "lat": 20.7236,
+    "lng": 86.4454,
+    "population": 961,
+    "households": 160,
+    "riskScore": 59,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-19",
+    "vulnerableGroups": {
+      "children": 175,
+      "elderly": 129,
+      "disabled": 21
+    }
+  },
+  {
+    "id": "VLG-0092",
+    "name": "Purbasasan",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.9381,
+    "lng": 86.4467,
+    "population": 2837,
+    "households": 473,
+    "riskScore": 59,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-04",
+    "vulnerableGroups": {
+      "children": 559,
+      "elderly": 289,
+      "disabled": 53
+    }
+  },
+  {
+    "id": "VLG-0072",
+    "name": "Badapur",
+    "district": "Ganjam",
+    "block": "Chikiti",
+    "state": "Odisha",
+    "lat": 19.2508,
+    "lng": 85.2551,
+    "population": 4426,
+    "households": 1107,
+    "riskScore": 58,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-28",
+    "vulnerableGroups": {
+      "children": 1134,
+      "elderly": 360,
+      "disabled": 57
+    }
+  },
+  {
+    "id": "VLG-0083",
+    "name": "Paschimgiri",
+    "district": "Ganjam",
+    "block": "Khallikote",
+    "state": "Odisha",
+    "lat": 19.4818,
+    "lng": 85.3354,
+    "population": 5392,
+    "households": 899,
+    "riskScore": 58,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-06-21",
+    "vulnerableGroups": {
+      "children": 1330,
+      "elderly": 565,
+      "disabled": 160
+    }
+  },
+  {
+    "id": "VLG-0106",
+    "name": "Nuasasan",
+    "district": "Kendrapara",
+    "block": "Marshaghai",
+    "state": "Odisha",
+    "lat": 20.2455,
+    "lng": 86.6636,
+    "population": 1916,
+    "households": 479,
+    "riskScore": 58,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-22",
+    "vulnerableGroups": {
+      "children": 473,
+      "elderly": 241,
+      "disabled": 38
+    }
+  },
+  {
+    "id": "VLG-0094",
+    "name": "Puranagiri",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.6107,
+    "lng": 84.5386,
+    "population": 5731,
+    "households": 1146,
+    "riskScore": 57,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-27",
+    "vulnerableGroups": {
+      "children": 1474,
+      "elderly": 639,
+      "disabled": 135
+    }
+  },
+  {
+    "id": "VLG-0078",
+    "name": "Uttarkuda",
+    "district": "Kendrapara",
+    "block": "Marshaghai",
+    "state": "Odisha",
+    "lat": 20.3893,
+    "lng": 86.3182,
+    "population": 3839,
+    "households": 768,
+    "riskScore": 56,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-23",
+    "vulnerableGroups": {
+      "children": 698,
+      "elderly": 418,
+      "disabled": 45
+    }
+  },
+  {
+    "id": "VLG-0107",
+    "name": "Puranadihi",
+    "district": "Balasore",
+    "block": "Bhograi",
+    "state": "Odisha",
+    "lat": 21.1545,
+    "lng": 86.6333,
+    "population": 6146,
+    "households": 1024,
+    "riskScore": 56,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-15",
+    "vulnerableGroups": {
+      "children": 1122,
+      "elderly": 661,
+      "disabled": 163
+    }
+  },
+  {
+    "id": "VLG-0071",
+    "name": "Dakshinpatna",
+    "district": "Kendrapara",
+    "block": "Mahakalapada",
+    "state": "Odisha",
+    "lat": 20.7038,
+    "lng": 86.0348,
+    "population": 2552,
+    "households": 638,
+    "riskScore": 55,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Cyclone",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-01",
+    "vulnerableGroups": {
+      "children": 594,
+      "elderly": 270,
+      "disabled": 53
+    }
+  },
+  {
+    "id": "VLG-0077",
+    "name": "Madhyadihi",
+    "district": "Balasore",
+    "block": "Basta",
+    "state": "Odisha",
+    "lat": 21.8048,
+    "lng": 87.0463,
+    "population": 1419,
+    "households": 284,
+    "riskScore": 55,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-14",
+    "vulnerableGroups": {
+      "children": 363,
+      "elderly": 118,
+      "disabled": 41
+    }
+  },
+  {
+    "id": "VLG-0105",
+    "name": "Madhyagiri",
+    "district": "Ganjam",
+    "block": "Chhatrapur",
+    "state": "Odisha",
+    "lat": 19.4398,
+    "lng": 84.7695,
+    "population": 4505,
+    "households": 1126,
+    "riskScore": 55,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion",
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-22",
+    "vulnerableGroups": {
+      "children": 1089,
+      "elderly": 534,
+      "disabled": 100
+    }
+  },
+  {
+    "id": "VLG-0103",
+    "name": "Nuabindha",
+    "district": "Jagatsinghpur",
+    "block": "Tirtol",
+    "state": "Odisha",
+    "lat": 19.978,
+    "lng": 86.0437,
+    "population": 5956,
+    "households": 993,
+    "riskScore": 54,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-12",
+    "vulnerableGroups": {
+      "children": 1263,
+      "elderly": 782,
+      "disabled": 87
+    }
+  },
+  {
+    "id": "VLG-0085",
+    "name": "Uttarkuda",
+    "district": "Kalahandi",
+    "block": "Kesinga",
+    "state": "Odisha",
+    "lat": 19.691,
+    "lng": 82.8728,
+    "population": 3388,
+    "households": 847,
+    "riskScore": 53,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Drought",
+      "Landslide"
+    ],
+    "lastAssessed": "2026-07-24",
+    "vulnerableGroups": {
+      "children": 844,
+      "elderly": 325,
+      "disabled": 76
+    }
+  },
+  {
+    "id": "VLG-0086",
+    "name": "Madhyabank",
+    "district": "Bhadrak",
+    "block": "Chandbali",
+    "state": "Odisha",
+    "lat": 21.3621,
+    "lng": 86.2873,
+    "population": 5291,
+    "households": 1323,
+    "riskScore": 52,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-07-10",
+    "vulnerableGroups": {
+      "children": 1254,
+      "elderly": 468,
+      "disabled": 148
+    }
+  },
+  {
+    "id": "VLG-0097",
+    "name": "Paschimsahi",
+    "district": "Koraput",
+    "block": "Semiliguda",
+    "state": "Odisha",
+    "lat": 18.5365,
+    "lng": 82.5556,
+    "population": 5661,
+    "households": 944,
+    "riskScore": 52,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Drought",
+      "Landslide"
+    ],
+    "lastAssessed": "2026-09-10",
+    "vulnerableGroups": {
+      "children": 1320,
+      "elderly": 792,
+      "disabled": 144
+    }
+  },
+  {
+    "id": "VLG-0100",
+    "name": "Paschimnagar",
+    "district": "Kendrapara",
+    "block": "Rajkanika",
+    "state": "Odisha",
+    "lat": 20.2103,
+    "lng": 86.3961,
+    "population": 4301,
+    "households": 860,
+    "riskScore": 52,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-08-03",
+    "vulnerableGroups": {
+      "children": 1103,
+      "elderly": 501,
+      "disabled": 77
+    }
+  },
+  {
+    "id": "VLG-0101",
+    "name": "Paschimnagar",
+    "district": "Puri",
+    "block": "Satyabadi",
+    "state": "Odisha",
+    "lat": 20.2432,
+    "lng": 85.7741,
+    "population": 5887,
+    "households": 981,
+    "riskScore": 51,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-13",
+    "vulnerableGroups": {
+      "children": 1476,
+      "elderly": 588,
+      "disabled": 118
+    }
+  },
+  {
+    "id": "VLG-0110",
+    "name": "Dakshinpatna",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.2823,
+    "lng": 86.2715,
+    "population": 3440,
+    "households": 860,
+    "riskScore": 51,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-08-06",
+    "vulnerableGroups": {
+      "children": 834,
+      "elderly": 425,
+      "disabled": 65
+    }
+  },
+  {
+    "id": "VLG-0079",
+    "name": "Dakshinsasan",
+    "district": "Koraput",
+    "block": "Lamtaput",
+    "state": "Odisha",
+    "lat": 18.5923,
+    "lng": 83.0309,
+    "population": 1097,
+    "households": 183,
+    "riskScore": 50,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-06-17",
+    "vulnerableGroups": {
+      "children": 235,
+      "elderly": 151,
+      "disabled": 13
+    }
+  },
+  {
+    "id": "VLG-0075",
+    "name": "Nuanagar",
+    "district": "Balasore",
+    "block": "Bhograi",
+    "state": "Odisha",
+    "lat": 21.7927,
+    "lng": 86.7616,
+    "population": 6189,
+    "households": 1547,
+    "riskScore": 49,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-01",
+    "vulnerableGroups": {
+      "children": 1383,
+      "elderly": 777,
+      "disabled": 101
+    }
+  },
+  {
+    "id": "VLG-0109",
+    "name": "Madhyanagar",
+    "district": "Bhadrak",
+    "block": "Basudevpur",
+    "state": "Odisha",
+    "lat": 21.0271,
+    "lng": 86.6499,
+    "population": 364,
+    "households": 61,
+    "riskScore": 49,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-09",
+    "vulnerableGroups": {
+      "children": 88,
+      "elderly": 48,
+      "disabled": 7
+    }
+  },
+  {
+    "id": "VLG-0089",
+    "name": "Madhyasahi",
+    "district": "Puri",
+    "block": "Satyabadi",
+    "state": "Odisha",
+    "lat": 19.7008,
+    "lng": 85.9557,
+    "population": 6317,
+    "households": 1263,
+    "riskScore": 48,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-27",
+    "vulnerableGroups": {
+      "children": 1265,
+      "elderly": 786,
+      "disabled": 131
+    }
+  },
+  {
+    "id": "VLG-0093",
+    "name": "Madhyakuda",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.9123,
+    "lng": 86.6503,
+    "population": 1353,
+    "households": 226,
+    "riskScore": 47,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-11",
+    "vulnerableGroups": {
+      "children": 336,
+      "elderly": 188,
+      "disabled": 25
+    }
+  },
+  {
+    "id": "VLG-0099",
+    "name": "Dakshinkuda",
+    "district": "Jagatsinghpur",
+    "block": "Tirtol",
+    "state": "Odisha",
+    "lat": 20.6965,
+    "lng": 85.728,
+    "population": 2486,
+    "households": 497,
+    "riskScore": 47,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-06-14",
+    "vulnerableGroups": {
+      "children": 572,
+      "elderly": 290,
+      "disabled": 74
+    }
+  },
+  {
+    "id": "VLG-0076",
+    "name": "Dakshinbank",
+    "district": "Koraput",
+    "block": "Lamtaput",
+    "state": "Odisha",
+    "lat": 18.905,
+    "lng": 82.4799,
+    "population": 3040,
+    "households": 760,
+    "riskScore": 46,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Landslide",
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-07-21",
+    "vulnerableGroups": {
+      "children": 567,
+      "elderly": 296,
+      "disabled": 59
+    }
+  },
+  {
+    "id": "VLG-0095",
+    "name": "Dakshinpatna",
+    "district": "Ganjam",
+    "block": "Khallikote",
+    "state": "Odisha",
+    "lat": 19.5094,
+    "lng": 84.8612,
+    "population": 2021,
+    "households": 505,
+    "riskScore": 46,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-06-10",
+    "vulnerableGroups": {
+      "children": 522,
+      "elderly": 219,
+      "disabled": 25
+    }
+  },
+  {
+    "id": "VLG-0096",
+    "name": "Sananagar",
+    "district": "Jagatsinghpur",
+    "block": "Naugaon",
+    "state": "Odisha",
+    "lat": 20.3576,
+    "lng": 85.8813,
+    "population": 671,
+    "households": 112,
+    "riskScore": 46,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-25",
+    "vulnerableGroups": {
+      "children": 151,
+      "elderly": 57,
+      "disabled": 19
+    }
+  },
+  {
+    "id": "VLG-0081",
+    "name": "Sanakuda",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.8749,
+    "lng": 86.7728,
+    "population": 2971,
+    "households": 594,
+    "riskScore": 45,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-28",
+    "vulnerableGroups": {
+      "children": 630,
+      "elderly": 241,
+      "disabled": 83
+    }
+  },
+  {
+    "id": "VLG-0102",
+    "name": "Badapada",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.0816,
+    "lng": 86.2512,
+    "population": 4316,
+    "households": 863,
+    "riskScore": 45,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion",
+      "Flood"
+    ],
+    "lastAssessed": "2026-06-12",
+    "vulnerableGroups": {
+      "children": 843,
+      "elderly": 500,
+      "disabled": 97
+    }
+  },
+  {
+    "id": "VLG-0087",
+    "name": "Puranagaon",
+    "district": "Koraput",
+    "block": "Pottangi",
+    "state": "Odisha",
+    "lat": 18.5803,
+    "lng": 82.3126,
+    "population": 920,
+    "households": 230,
+    "riskScore": 44,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Drought",
+      "Landslide"
+    ],
+    "lastAssessed": "2026-06-27",
+    "vulnerableGroups": {
+      "children": 189,
+      "elderly": 101,
+      "disabled": 15
+    }
+  },
+  {
+    "id": "VLG-0098",
+    "name": "Badapatna",
+    "district": "Kalahandi",
+    "block": "Junagarh",
+    "state": "Odisha",
+    "lat": 20.0925,
+    "lng": 83.3468,
+    "population": 5808,
+    "households": 1162,
+    "riskScore": 44,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Landslide"
+    ],
+    "lastAssessed": "2026-09-16",
+    "vulnerableGroups": {
+      "children": 1391,
+      "elderly": 710,
+      "disabled": 102
+    }
+  },
+  {
+    "id": "VLG-0108",
+    "name": "Uttarkuda",
+    "district": "Bhadrak",
+    "block": "Tihidi",
+    "state": "Odisha",
+    "lat": 20.797,
+    "lng": 86.1458,
+    "population": 4385,
+    "households": 731,
+    "riskScore": 44,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-27",
+    "vulnerableGroups": {
+      "children": 800,
+      "elderly": 513,
+      "disabled": 50
+    }
+  },
+  {
+    "id": "VLG-0074",
+    "name": "Uttarbindha",
+    "district": "Kalahandi",
+    "block": "Junagarh",
+    "state": "Odisha",
+    "lat": 20.2786,
+    "lng": 83.5586,
+    "population": 3541,
+    "households": 708,
+    "riskScore": 43,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Landslide"
+    ],
+    "lastAssessed": "2026-09-20",
+    "vulnerableGroups": {
+      "children": 910,
+      "elderly": 483,
+      "disabled": 38
+    }
+  },
+  {
+    "id": "VLG-0080",
+    "name": "Purbapur",
+    "district": "Ganjam",
+    "block": "Khallikote",
+    "state": "Odisha",
+    "lat": 19.6865,
+    "lng": 84.5544,
+    "population": 974,
+    "households": 162,
+    "riskScore": 43,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-23",
+    "vulnerableGroups": {
+      "children": 203,
+      "elderly": 90,
+      "disabled": 11
+    }
+  },
+  {
+    "id": "VLG-0091",
+    "name": "Paschimkhali",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.2251,
+    "lng": 85.384,
+    "population": 2393,
+    "households": 479,
+    "riskScore": 43,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-06",
+    "vulnerableGroups": {
+      "children": 500,
+      "elderly": 206,
+      "disabled": 39
+    }
+  },
+  {
+    "id": "VLG-0084",
+    "name": "Badakhali",
+    "district": "Jagatsinghpur",
+    "block": "Erasama",
+    "state": "Odisha",
+    "lat": 19.9207,
+    "lng": 86.0098,
+    "population": 3581,
+    "households": 895,
+    "riskScore": 42,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-15",
+    "vulnerableGroups": {
+      "children": 801,
+      "elderly": 345,
+      "disabled": 43
+    }
+  },
+  {
+    "id": "VLG-0088",
+    "name": "Dakshinsasan",
+    "district": "Ganjam",
+    "block": "Chhatrapur",
+    "state": "Odisha",
+    "lat": 19.5174,
+    "lng": 85.2683,
+    "population": 1402,
+    "households": 351,
+    "riskScore": 41,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-06-28",
+    "vulnerableGroups": {
+      "children": 344,
+      "elderly": 139,
+      "disabled": 20
+    }
+  },
+  {
+    "id": "VLG-0104",
+    "name": "Nuapatna",
+    "district": "Kalahandi",
+    "block": "Junagarh",
+    "state": "Odisha",
+    "lat": 19.9199,
+    "lng": 83.4119,
+    "population": 4704,
+    "households": 784,
+    "riskScore": 41,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Drought"
+    ],
+    "lastAssessed": "2026-08-20",
+    "vulnerableGroups": {
+      "children": 1117,
+      "elderly": 531,
+      "disabled": 74
+    }
+  },
+  {
+    "id": "VLG-0073",
+    "name": "Purbabindha",
+    "district": "Koraput",
+    "block": "Kotpad",
+    "state": "Odisha",
+    "lat": 18.8448,
+    "lng": 82.8563,
+    "population": 2407,
+    "households": 602,
+    "riskScore": 40,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Landslide"
+    ],
+    "lastAssessed": "2026-06-14",
+    "vulnerableGroups": {
+      "children": 444,
+      "elderly": 311,
+      "disabled": 39
+    }
+  },
+  {
+    "id": "VLG-0090",
+    "name": "Paschimkuda",
+    "district": "Balasore",
+    "block": "Baliapal",
+    "state": "Odisha",
+    "lat": 21.1394,
+    "lng": 86.8006,
+    "population": 2139,
+    "households": 535,
+    "riskScore": 40,
+    "riskLevel": "moderate",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-06",
+    "vulnerableGroups": {
+      "children": 400,
+      "elderly": 194,
+      "disabled": 31
+    }
+  },
+  {
+    "id": "VLG-0115",
+    "name": "Sanasahi",
+    "district": "Kalahandi",
+    "block": "Dharmagarh",
+    "state": "Odisha",
+    "lat": 19.7918,
+    "lng": 83.5725,
+    "population": 4179,
+    "households": 1045,
+    "riskScore": 39,
+    "riskLevel": "low",
+    "hazards": [
+      "Drought"
+    ],
+    "lastAssessed": "2026-08-07",
+    "vulnerableGroups": {
+      "children": 888,
+      "elderly": 485,
+      "disabled": 95
+    }
+  },
+  {
+    "id": "VLG-0118",
+    "name": "Paschimsasan",
+    "district": "Ganjam",
+    "block": "Khallikote",
+    "state": "Odisha",
+    "lat": 19.7184,
+    "lng": 84.9956,
+    "population": 6317,
+    "households": 1263,
+    "riskScore": 37,
+    "riskLevel": "low",
+    "hazards": [
+      "Flood",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-06-22",
+    "vulnerableGroups": {
+      "children": 1215,
+      "elderly": 548,
+      "disabled": 96
+    }
+  },
+  {
+    "id": "VLG-0120",
+    "name": "Madhyabank",
+    "district": "Kendrapara",
+    "block": "Marshaghai",
+    "state": "Odisha",
+    "lat": 20.4424,
+    "lng": 86.1903,
+    "population": 4440,
+    "households": 740,
+    "riskScore": 36,
+    "riskLevel": "low",
+    "hazards": [
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-24",
+    "vulnerableGroups": {
+      "children": 831,
+      "elderly": 499,
+      "disabled": 66
+    }
+  },
+  {
+    "id": "VLG-0125",
+    "name": "Purbakuda",
+    "district": "Balasore",
+    "block": "Baliapal",
+    "state": "Odisha",
+    "lat": 21.7439,
+    "lng": 86.5431,
+    "population": 4008,
+    "households": 802,
+    "riskScore": 36,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-17",
+    "vulnerableGroups": {
+      "children": 827,
+      "elderly": 443,
+      "disabled": 56
+    }
+  },
+  {
+    "id": "VLG-0111",
+    "name": "Uttarpur",
+    "district": "Kalahandi",
+    "block": "Dharmagarh",
+    "state": "Odisha",
+    "lat": 20.2483,
+    "lng": 82.8526,
+    "population": 2107,
+    "households": 351,
+    "riskScore": 35,
+    "riskLevel": "low",
+    "hazards": [
+      "Landslide"
+    ],
+    "lastAssessed": "2026-09-24",
+    "vulnerableGroups": {
+      "children": 487,
+      "elderly": 237,
+      "disabled": 42
+    }
+  },
+  {
+    "id": "VLG-0130",
+    "name": "Puranabank",
+    "district": "Bhadrak",
+    "block": "Basudevpur",
+    "state": "Odisha",
+    "lat": 21.0162,
+    "lng": 86.2226,
+    "population": 4086,
+    "households": 1022,
+    "riskScore": 35,
+    "riskLevel": "low",
+    "hazards": [
+      "Erosion",
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-20",
+    "vulnerableGroups": {
+      "children": 864,
+      "elderly": 421,
+      "disabled": 119
+    }
+  },
+  {
+    "id": "VLG-0124",
+    "name": "Puranapur",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.8535,
+    "lng": 86.0142,
+    "population": 5265,
+    "households": 878,
+    "riskScore": 34,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-28",
+    "vulnerableGroups": {
+      "children": 1002,
+      "elderly": 590,
+      "disabled": 93
+    }
+  },
+  {
+    "id": "VLG-0129",
+    "name": "Dakshinpada",
+    "district": "Kendrapara",
+    "block": "Marshaghai",
+    "state": "Odisha",
+    "lat": 20.7788,
+    "lng": 86.6869,
+    "population": 3331,
+    "households": 555,
+    "riskScore": 34,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone",
+      "Flood"
+    ],
+    "lastAssessed": "2026-09-05",
+    "vulnerableGroups": {
+      "children": 661,
+      "elderly": 455,
+      "disabled": 91
+    }
+  },
+  {
+    "id": "VLG-0114",
+    "name": "Uttarsasan",
+    "district": "Kendrapara",
+    "block": "Rajkanika",
+    "state": "Odisha",
+    "lat": 20.0702,
+    "lng": 86.2691,
+    "population": 5586,
+    "households": 1397,
+    "riskScore": 33,
+    "riskLevel": "low",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-06-16",
+    "vulnerableGroups": {
+      "children": 1406,
+      "elderly": 764,
+      "disabled": 94
+    }
+  },
+  {
+    "id": "VLG-0126",
+    "name": "Nuagaon",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.7639,
+    "lng": 84.7719,
+    "population": 1669,
+    "households": 417,
+    "riskScore": 33,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-17",
+    "vulnerableGroups": {
+      "children": 370,
+      "elderly": 155,
+      "disabled": 49
+    }
+  },
+  {
+    "id": "VLG-0116",
+    "name": "Dakshindihi",
+    "district": "Bhadrak",
+    "block": "Tihidi",
+    "state": "Odisha",
+    "lat": 20.8211,
+    "lng": 86.3923,
+    "population": 1235,
+    "households": 247,
+    "riskScore": 32,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-25",
+    "vulnerableGroups": {
+      "children": 254,
+      "elderly": 146,
+      "disabled": 27
+    }
+  },
+  {
+    "id": "VLG-0123",
+    "name": "Puranasasan",
+    "district": "Kendrapara",
+    "block": "Mahakalapada",
+    "state": "Odisha",
+    "lat": 20.5272,
+    "lng": 86.2582,
+    "population": 3700,
+    "households": 925,
+    "riskScore": 32,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-17",
+    "vulnerableGroups": {
+      "children": 672,
+      "elderly": 496,
+      "disabled": 71
+    }
+  },
+  {
+    "id": "VLG-0131",
+    "name": "Puranapada",
+    "district": "Kendrapara",
+    "block": "Aul",
+    "state": "Odisha",
+    "lat": 20.2085,
+    "lng": 86.1256,
+    "population": 6218,
+    "households": 1555,
+    "riskScore": 32,
+    "riskLevel": "low",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-07-11",
+    "vulnerableGroups": {
+      "children": 1431,
+      "elderly": 708,
+      "disabled": 131
+    }
+  },
+  {
+    "id": "VLG-0113",
+    "name": "Uttarpatna",
+    "district": "Puri",
+    "block": "Kakatpur",
+    "state": "Odisha",
+    "lat": 20.0661,
+    "lng": 86.012,
+    "population": 1620,
+    "households": 405,
+    "riskScore": 26,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-06-05",
+    "vulnerableGroups": {
+      "children": 416,
+      "elderly": 216,
+      "disabled": 26
+    }
+  },
+  {
+    "id": "VLG-0117",
+    "name": "Paschimnagar",
+    "district": "Jagatsinghpur",
+    "block": "Balikuda",
+    "state": "Odisha",
+    "lat": 20.0068,
+    "lng": 85.7857,
+    "population": 1113,
+    "households": 278,
+    "riskScore": 25,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone",
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-28",
+    "vulnerableGroups": {
+      "children": 204,
+      "elderly": 111,
+      "disabled": 28
+    }
+  },
+  {
+    "id": "VLG-0119",
+    "name": "Purananagar",
+    "district": "Kalahandi",
+    "block": "Narla",
+    "state": "Odisha",
+    "lat": 19.6519,
+    "lng": 83.5114,
+    "population": 316,
+    "households": 63,
+    "riskScore": 25,
+    "riskLevel": "low",
+    "hazards": [
+      "Earthquake",
+      "Drought"
+    ],
+    "lastAssessed": "2026-08-25",
+    "vulnerableGroups": {
+      "children": 71,
+      "elderly": 30,
+      "disabled": 4
+    }
+  },
+  {
+    "id": "VLG-0127",
+    "name": "Paschimbank",
+    "district": "Puri",
+    "block": "Gop",
+    "state": "Odisha",
+    "lat": 19.922,
+    "lng": 85.7561,
+    "population": 1891,
+    "households": 378,
+    "riskScore": 23,
+    "riskLevel": "low",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-10",
+    "vulnerableGroups": {
+      "children": 449,
+      "elderly": 191,
+      "disabled": 19
+    }
+  },
+  {
+    "id": "VLG-0122",
+    "name": "Paschimtikiri",
+    "district": "Kalahandi",
+    "block": "Narla",
+    "state": "Odisha",
+    "lat": 20.0293,
+    "lng": 83.3829,
+    "population": 3471,
+    "households": 868,
+    "riskScore": 22,
+    "riskLevel": "low",
+    "hazards": [
+      "Drought"
+    ],
+    "lastAssessed": "2026-08-03",
+    "vulnerableGroups": {
+      "children": 630,
+      "elderly": 368,
+      "disabled": 93
+    }
+  },
+  {
+    "id": "VLG-0128",
+    "name": "Paschimsasan",
+    "district": "Jagatsinghpur",
+    "block": "Tirtol",
+    "state": "Odisha",
+    "lat": 20.5872,
+    "lng": 86.5076,
+    "population": 1943,
+    "households": 389,
+    "riskScore": 21,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-09-28",
+    "vulnerableGroups": {
+      "children": 482,
+      "elderly": 230,
+      "disabled": 49
+    }
+  },
+  {
+    "id": "VLG-0112",
+    "name": "Uttarpur",
+    "district": "Kendrapara",
+    "block": "Rajkanika",
+    "state": "Odisha",
+    "lat": 20.2523,
+    "lng": 86.1338,
+    "population": 5587,
+    "households": 1117,
+    "riskScore": 20,
+    "riskLevel": "low",
+    "hazards": [
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-15",
+    "vulnerableGroups": {
+      "children": 1412,
+      "elderly": 616,
+      "disabled": 148
+    }
+  },
+  {
+    "id": "VLG-0121",
+    "name": "Paschimgiri",
+    "district": "Puri",
+    "block": "Astaranga",
+    "state": "Odisha",
+    "lat": 19.7411,
+    "lng": 85.4229,
+    "population": 4141,
+    "households": 1035,
+    "riskScore": 20,
+    "riskLevel": "low",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-08-19",
+    "vulnerableGroups": {
+      "children": 1037,
+      "elderly": 479,
+      "disabled": 52
+    }
+  },
+  {
+    "id": "VLG-0132",
+    "name": "Badakuda",
+    "district": "Ganjam",
+    "block": "Rangeilunda",
+    "state": "Odisha",
+    "lat": 19.6926,
+    "lng": 85.0527,
+    "population": 5365,
+    "households": 1073,
+    "riskScore": 18,
+    "riskLevel": "safe",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-16",
+    "vulnerableGroups": {
+      "children": 1254,
+      "elderly": 449,
+      "disabled": 94
+    }
+  },
+  {
+    "id": "VLG-0133",
+    "name": "Puranakhali",
+    "district": "Jagatsinghpur",
+    "block": "Erasama",
+    "state": "Odisha",
+    "lat": 20.6742,
+    "lng": 86.0061,
+    "population": 557,
+    "households": 139,
+    "riskScore": 13,
+    "riskLevel": "safe",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-07-11",
+    "vulnerableGroups": {
+      "children": 128,
+      "elderly": 61,
+      "disabled": 14
+    }
+  },
+  {
+    "id": "VLG-0138",
+    "name": "Purbatikiri",
+    "district": "Ganjam",
+    "block": "Chikiti",
+    "state": "Odisha",
+    "lat": 19.7902,
+    "lng": 85.2026,
+    "population": 2640,
+    "households": 528,
+    "riskScore": 7,
+    "riskLevel": "safe",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-08-20",
+    "vulnerableGroups": {
+      "children": 587,
+      "elderly": 220,
+      "disabled": 47
+    }
+  },
+  {
+    "id": "VLG-0135",
+    "name": "Dakshindihi",
+    "district": "Kalahandi",
+    "block": "Dharmagarh",
+    "state": "Odisha",
+    "lat": 19.784,
+    "lng": 83.4467,
+    "population": 3484,
+    "households": 871,
+    "riskScore": 6,
+    "riskLevel": "safe",
+    "hazards": [
+      "Earthquake"
+    ],
+    "lastAssessed": "2026-08-01",
+    "vulnerableGroups": {
+      "children": 751,
+      "elderly": 366,
+      "disabled": 50
+    }
+  },
+  {
+    "id": "VLG-0136",
+    "name": "Paschimdihi",
+    "district": "Bhadrak",
+    "block": "Tihidi",
+    "state": "Odisha",
+    "lat": 21.2863,
+    "lng": 86.4897,
+    "population": 1069,
+    "households": 267,
+    "riskScore": 5,
+    "riskLevel": "safe",
+    "hazards": [
+      "Erosion"
+    ],
+    "lastAssessed": "2026-09-11",
+    "vulnerableGroups": {
+      "children": 222,
+      "elderly": 102,
+      "disabled": 21
+    }
+  },
+  {
+    "id": "VLG-0134",
+    "name": "Badadihi",
+    "district": "Bhadrak",
+    "block": "Basudevpur",
+    "state": "Odisha",
+    "lat": 20.6447,
+    "lng": 86.8222,
+    "population": 2373,
+    "households": 475,
+    "riskScore": 4,
+    "riskLevel": "safe",
+    "hazards": [
+      "Erosion",
+      "Cyclone"
+    ],
+    "lastAssessed": "2026-07-25",
+    "vulnerableGroups": {
+      "children": 490,
+      "elderly": 223,
+      "disabled": 40
+    }
+  },
+  {
+    "id": "VLG-0137",
+    "name": "Sanabank",
+    "district": "Kalahandi",
+    "block": "Junagarh",
+    "state": "Odisha",
+    "lat": 19.9568,
+    "lng": 82.9451,
+    "population": 4296,
+    "households": 716,
+    "riskScore": 4,
+    "riskLevel": "safe",
+    "hazards": [
+      "Landslide",
+      "Drought"
+    ],
+    "lastAssessed": "2026-06-02",
+    "vulnerableGroups": {
+      "children": 921,
+      "elderly": 595,
+      "disabled": 78
+    }
+  }
+]
